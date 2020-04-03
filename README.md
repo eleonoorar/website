@@ -6,5 +6,4 @@ Just adding some stuff for the training
 
 ## Repository Purpose
 
-This file is just a readme file
-
+This will be a change that conflicts with whatever is on the remote
